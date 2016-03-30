@@ -77,7 +77,7 @@ namespace DAL
             string strWhere = "username ='" + specimenRtLogUserName+"'";
             string strOrderBy = "PostBackDate desc";
             DataSet ds = spr.GetList(1, strWhere, strOrderBy);
-            if (ds!=null||ds.Tables[0].Rows.Count>0)
+            if (ds!=null&&ds.Tables[0].Rows.Count>0)
             {
                 string value = ds.Tables[0].Rows[0]["PostBackDate"].ToString();
                 bool res = DateTime.TryParse(value, out date);
