@@ -32,7 +32,7 @@
                 <th field="Name" width="10%" sortable="true">姓名</th>
                 <th field="NamePhonetic" width="100"  hidden="true">姓名拼音</th>
                 <th field="DateOfBirth" width="100"  hidden="true">出生日期</th>
-                <th field="DateOfAge" width="150">年龄</th>
+                <th field="DateOfAge" width="30">年龄</th>
                 <th field="BirthPlace" width="100"  hidden="true">行政区名称</th>
                 <th field="Citizenship" width="100"  hidden="true">国家简称</th>
                 <th field="Nation" width="100"  hidden="true">民族</th>
@@ -49,11 +49,11 @@
                 <th field="NextOfKinZipCode" width="100" hidden="true">联系人邮政编码</th>
                 <th field="NextOfKinPhome" width="100" hidden="true">联系人电话号码</th>
                 <th field="DeptCode" width="15%" sortable="true" hidden="true">科室代码@名称</th>
-                <th field="DeptCodeName" width="15%" sortable="true">名称</th>
+                <th field="DeptCodeName" width="15%" sortable="true" hidden="true">名称</th>
                 <th field="BedNO" width="100" hidden="true">病人所住床号</th>
                 <th field="AdmissionDateTime" width="100" hidden="true">入院日期及时间</th>
                 <th field="DoctorInCharge" width="100" hidden="true">主治医生工号@姓名</th>
-                <th field="ScheduleId" width="100"  hidden="true">手术id号</th>
+                <th field="ScheduleId" width="40">手术id号</th>
                 <th field="DiagBeforeOperation"width="14%" sortable="true">主要诊断</th>
                 <th field="ScheduledDateTime" width="100" hidden="true">预约进行该次手术的日期及时间</th>
                 <th field="KeepSpecimenSign" width="5%" sortable="true">是否留标本</th>
@@ -62,7 +62,7 @@
                 <th field="InPatPreillness" width="100" hidden="true">现病史</th>
                 <th field="InPatPastillness" width="100" hidden="true">既往史</th>
                 <th field="InPatFamillness" width="100" hidden="true">家族史</th>
-                <th field="LabInfo" width="10%" sortable="true">乙肝梅毒等阳性结果</th>
+                <th field="LabInfo" width="10%" sortable="true">乙肝等阳性结果</th>
                 <th field="Sex" width="5%" >性别</th>
             </tr>
         </thead>

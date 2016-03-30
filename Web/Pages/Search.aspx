@@ -20,7 +20,7 @@
         #SearchForm div{margin:5px}
     </style>
 </head>
-<body style="width:940px">
+<body ><%--style="width:940px"--%>
     <div class="easyui-panel">
         <form id="SearchForm" runat="server">
             <div style="float: left">
