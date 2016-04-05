@@ -58,10 +58,10 @@
       <publishTime>12/11/2015 13:29:19</publishTime>
     </File>
     <File Include="bin/RuRo.BLL.dll">
-      <publishTime>12/11/2015 16:55:36</publishTime>
+      <publishTime>12/11/2015 17:21:58</publishTime>
     </File>
     <File Include="bin/RuRo.BLL.XmlSerializers.dll">
-      <publishTime>12/11/2015 16:55:37</publishTime>
+      <publishTime>12/11/2015 17:21:59</publishTime>
     </File>
     <File Include="bin/RuRo.Common.dll">
       <publishTime>12/11/2015 16:55:34</publishTime>
@@ -73,7 +73,7 @@
       <publishTime>12/11/2015 16:55:34</publishTime>
     </File>
     <File Include="bin/RuRo.Web.dll">
-      <publishTime>12/11/2015 16:55:38</publishTime>
+      <publishTime>12/11/2015 17:22:00</publishTime>
     </File>
     <File Include="bin/System.Data.SQLite.dll">
       <publishTime>12/11/2015 13:29:19</publishTime>
