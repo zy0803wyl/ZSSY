@@ -43,7 +43,10 @@ namespace FpUtility.Fp_DAL
             {
                 foreach (KeyValuePair<string, string> p in dataDic)
                 {
-                    jsonData.AppendFormat("&{0}={1}", p.Key.Trim().ToString(), p.Value.Trim().ToString());
+                    if (!string.IsNullOrEmpty(p.Value))
+                    {
+                        jsonData.AppendFormat("&{0}={1}", p.Key.Trim().ToString(), p.Value.Trim().ToString());
+                    }
                 }
             }
             HttpHelper http = new HttpHelper();

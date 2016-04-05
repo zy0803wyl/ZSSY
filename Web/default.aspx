@@ -16,10 +16,10 @@
         //初始化win弹窗在显示器中央
         function doimport() {
             var width = 1350;
-            var height = 650;
+            var height = 700;
             var l = Math.round((window.screen.width - width) / 2);
             var t = Math.round((window.screen.height - height) / 2);
-            window.open('Login.aspx', 'newwindow', 'height=' + height + ', width=' + width + ', top=' + t + ',left=' + l + ',toolbar=no, menubar=no, scrollbars=yes, resizable=no,location=no, status=no')
+            window.open('Login.aspx', 'newwindow', 'height=' + height + ', width=' + width + ', top=' + t + ',left=' + l + ',toolbar=no, menubar=no, scrollbars=yes, resizable=yes,location=no, status=no')
         }
         $(function () {
             $(".side").css({ 'width': '24px', 'padding-right': '5px' });
