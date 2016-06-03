@@ -17,7 +17,8 @@ namespace RuRo.BLL
             //将前台传入的对象转换成字典
             Dictionary<string, string> dataDic = Common.ObjAndDic.ObjectToDic(obj);
             //获取医院字段匹配字典
-            Dictionary<string, string> matchField = GetMatchFieldsXmlToDic("configXML\\MatchFields.xml", "/Matchings/*");
+            //Dictionary<string, string> matchField = GetMatchFieldsXmlToDic("configXML\\MatchFields.xml", "/Matchings/*");
+            Dictionary<string, string> matchField = BLL.MatchDic.Match_For_SampleSource();
             //过滤字段
             //根据样品源类型过滤字段
             List<string> list = FpUtility.Fp_BLL.SampleSocrce.GetSampleSourceTypeFieldByTypeName(up.GetUp(), sampleSourceTypeName);
@@ -31,7 +32,10 @@ namespace RuRo.BLL
                 {
                     if (!nameAndDescDic.ContainsKey(item.Key))
                     {
-                        nameAndDescDic.Add(item.Key, item.Value);
+                        if (!string.IsNullOrEmpty(item.Value))
+                        {
+                            nameAndDescDic.Add(item.Key, item.Value.Replace(";",",").Replace("；",","));
+                        }
                     }
                 }
             }

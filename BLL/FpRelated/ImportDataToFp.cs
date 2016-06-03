@@ -109,7 +109,8 @@ namespace BLL
             SampleSocrce sampleSource = new SampleSocrce();
             List<string> sampleSourceTypeField = sampleSource.GetSampleSourceTypeFieldByTypeName(sampleSourceTypeName);
             //02.获取字段匹配字典（得到配置文件中的字段匹配列表）
-            Dictionary<string, string> matchField = GetMatchFieldsXmlToDic("configXML\\MatchFields.xml", "/Matchings/*");
+           // Dictionary<string, string> matchField = GetMatchFieldsXmlToDic("configXML\\MatchFields.xml", "/Matchings/*");
+            Dictionary<string, string> matchField = RuRo.BLL.MatchDic.Match_For_SampleSource();
             //03.根据用户字段和字段匹配字典生成用户自定义区域字段字典(得到字段列表对应的字段与医院数据匹配字段的字典)
             Dictionary<string, string> sampleSourceFieldsDic = new Dictionary<string, string>();
             foreach (string item in sampleSourceTypeField)

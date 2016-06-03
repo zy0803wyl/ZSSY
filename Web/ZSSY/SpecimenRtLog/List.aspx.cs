@@ -140,6 +140,7 @@ namespace RuRo.Web.ZSSY.SpecimenRtLog
 
         protected void btnRes_Click(object sender, EventArgs e)
         {
+
             RespondHis res = new RespondHis();
             res.StarRespond();
             BindData();

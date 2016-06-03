@@ -38,13 +38,17 @@ namespace FpUtility.Fp_DAL
         #region 方法
         internal string PostData()
         {
-            StringBuilder jsonData = new StringBuilder();
+           StringBuilder jsonData = new StringBuilder();
             if (dataDic != null && dataDic.Count > 0)
             {
                 foreach (KeyValuePair<string, string> p in dataDic)
                 {
-                    jsonData.AppendFormat("&{0}={1}", p.Key.Trim().ToString(), p.Value.Trim().ToString());
+                    if (!string.IsNullOrEmpty(p.Value))
+                    {
+                        jsonData.AppendFormat("&{0}={1}", p.Key.Trim().ToString(), p.Value.Trim().ToString());
+                    }
                 }
+               string sss= jsonData.ToString().TrimStart('&');
             }
             HttpHelper http = new HttpHelper();
             HttpItem item = new HttpItem()
@@ -54,7 +58,7 @@ namespace FpUtility.Fp_DAL
                 IsToLower = false,//得到的HTML代码是否转成小写     可选项默认转小写   
                 Cookie = "",//字符串Cookie     可选项   
                 Referer = "",//来源URL     可选项   
-                Postdata = jsonData.ToString(),//Post数据     可选项GET时不需要写 
+                Postdata = jsonData.ToString().TrimStart('&'),//Post数据     可选项GET时不需要写 
                 PostEncoding = Encoding.UTF8,  
                 Timeout = 100000,//连接超时时间     可选项默认为100000    
                 ReadWriteTimeout = 30000,//写入Post数据超时时间     可选项默认为30000   

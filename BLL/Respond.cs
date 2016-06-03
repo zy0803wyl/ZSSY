@@ -385,7 +385,8 @@ namespace BLL
         private string GetUserName()
         {
             string Username = "";
-            Username = AccountHelper.GetActiveAccountUesrName()[0];
+            Username = RuRo.Common.CookieHelper.GetCookieValue("username");
+            //Username = AccountHelper.GetActiveAccountUesrName()[0];
             return Username;
         }
         #endregion

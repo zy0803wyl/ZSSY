@@ -175,6 +175,8 @@ namespace RuRo
                     model_OPListForSpecimen.LabInfo = context.Request["LabInfo"];
                 if (context.Request["DateOfAge"] != null)
                     model_OPListForSpecimen.DateOfAge = context.Request["DateOfAge"];
+                if (context.Request["ResultContent"] != null)
+                    model_OPListForSpecimen.ResultContent = context.Request["ResultContent"];
                 #endregion
                 //数据转换
                 if (context.Request["ssType"] != null)
@@ -189,8 +191,6 @@ namespace RuRo
                context.Response.Write(result);
                 //数据提交
                 //结果返回
-
-
             }
             catch (Exception exception)
             {

@@ -326,8 +326,15 @@ namespace BLL
                         //字典中不包含当前节点name就加入到节点中
                         if (!oPListForSpecimenDic.Keys.Contains(item.Name))
                         {
-
-                            oPListForSpecimenDic.Add(item.Name, item.InnerText);
+                            if (item.Name == "PathologyInfos")
+                            {
+                                oPListForSpecimenDic.Add("ResultContent", item.SelectSingleNode("PathologyInfo/ResultContent").InnerText);
+                            }
+                            else
+                            {
+                                // ResultContent
+                                oPListForSpecimenDic.Add(item.Name, item.InnerText);
+                            }
                         }
                     }
                 }
@@ -483,7 +490,7 @@ namespace BLL
                 if (oPListForSpecimen.Count > 0)//有获取到数据
                 {
                     //03.调用方法将字典转换成JSON数据
-                    if (oPListForSpecimen["KeepSpecimenSign"]=="N")
+                    if (oPListForSpecimen["KeepSpecimenSign"] == "N")
                     {
                         oPListForSpecimen["KeepSpecimenSign"] = "";
                     }
@@ -520,7 +527,7 @@ namespace BLL
                 {
                     RuRo.Model.ZSSY.OPListForSpecimen model = new RuRo.Model.ZSSY.OPListForSpecimen();
                     RuRo.Common.ObjAndDic.DicToObject(item, model);
-                    if (model.KeepSpecimenSign=="N")
+                    if (model.KeepSpecimenSign == "N")
                     {
                         model.KeepSpecimenSign = "";
                     }
@@ -538,10 +545,10 @@ namespace BLL
         /// <param name="old">出生日期</param>
         /// <param name="now">当前时间</param>
         /// <returns></returns>
-        public int RekoenAge(DateTime old, DateTime now) 
+        public int RekoenAge(DateTime old, DateTime now)
         {
             int InAge = 0;
-            if (now>old)
+            if (now > old)
             {
                 InAge = now.Year - old.Year;
             }

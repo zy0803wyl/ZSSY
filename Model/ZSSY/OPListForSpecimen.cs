@@ -354,6 +354,10 @@ namespace RuRo.Model.ZSSY
 		}
 		#endregion Model
 
+        /// <summary>
+        /// 病例诊断
+        /// </summary>
+        public string ResultContent { get; set; }
 	}
 }
 

@@ -232,6 +232,12 @@
                             <textarea id="DiagBeforeOperation" name="DiagBeforeOperation"></textarea>
                         </div>
                     </div>
+                     <div class="fitem">
+                        <div class="label">病理诊断:</div>
+                        <div class="control">
+                            <textarea id="ResultContent" name="ResultContent"></textarea>
+                        </div>
+                    </div>
                     <div class="fitem">
                         <div class="label">现病史:</div>
                         <div class="control">
@@ -262,6 +268,7 @@
                             <textarea id="MailingAddress" name="MailingAddress"></textarea>
                         </div>
                     </div>
+                   
                 </form>
                 <div class="ftitle"></div>
             </div>
@@ -373,12 +380,17 @@
                 success: function (response) {
                     ajaxLoadEnd();
                     if (response) {
-                        var res = JSON.parse(response);
-                        if (res.success || res.message.indexOf('should be unique.') > -1) {
-                            ShowMsg("患者信息：" + "导入成功" + res.message);
-                        } else {
-                            ShowMsg("患者信息：" + "导入失败" + res.message);
+                        try {
+                            var res = JSON.parse(response);
+                            if (res.success || res.message.indexOf('should be unique.') > -1) {
+                                ShowMsg("患者信息：" + "导入成功" + res.message);
+                            } else {
+                                ShowMsg("患者信息：" + "导入失败" + res.message);
+                            }
+                        } catch (e) {
+                            $.messager.alert('提示', '导入信息出错，请手动添加', 'error');
                         }
+                        
                     }
                     else { $.messager.alert('提示', '查询不到样品源', 'error'); }
                 }
