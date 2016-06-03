@@ -1,0 +1,24 @@
+
+Log Entry : 
+12/09/2015 17:03:32
+Message：【CSP Gateway Error (version:2010.2.8.1104.0 build:1002.1192e)】
+StackTrace：【   在 System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   在 System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   在 RuRo.BLL.WebService.ForCenterLabService.GetPatientLabResult(String OeordID, String TestNo) 位置 h:\Repository\ZSSY\BLL\Web References\WebService\Reference.cs:行号 189
+   在 RuRo.BLL.LabTestResult.GetDataFromHP(String oeordID, String testNo) 位置 h:\Repository\ZSSY\BLL\LabTestResult.cs:行号 22】
+Source：【System.Web.Services】
+HResult：【-2146233087】
+
+________________________________________________________
+
+Log Entry : 
+12/09/2015 17:03:32
+Message：【CSP Gateway Error (version:2010.2.8.1104.0 build:1002.1192e)】
+StackTrace：【   在 System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   在 System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   在 RuRo.BLL.WebService.ForCenterLabService.GetPatientLabResult(String OeordID, String TestNo) 位置 h:\Repository\ZSSY\BLL\Web References\WebService\Reference.cs:行号 189
+   在 RuRo.BLL.LabTestResult.GetDataFromHP(String oeordID, String testNo) 位置 h:\Repository\ZSSY\BLL\LabTestResult.cs:行号 22】
+Source：【System.Web.Services】
+HResult：【-2146233087】
+
+________________________________________________________

@@ -1,0 +1,3 @@
+/home/al/Work/Repository/ZSSY/Common/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/al/Work/Repository/ZSSY/Common/obj/Debug/RuRo.Common.dll
+/home/al/Work/Repository/ZSSY/Common/bin/Debug/Newtonsoft.Json.dll

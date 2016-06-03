@@ -1,0 +1,1110 @@
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:27
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:27:28
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:09
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:33:10
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:34:44
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:34:47
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:35:02
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:31
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________
+
+Log Entry : 
+10/26/2015 00:42:32
+Message：【未将对象引用设置到对象的实例。】
+StackTrace：【   在 RuRo.Common.ReflectHelper.GetValue(Object entity, String fieldName) 位置 h:\Repository\ZSSY\Common\ReflectHelper.cs:行号 100
+   在 RuRo.Common.ObjAndDic.ObjectToDic(Object obj) 位置 h:\Repository\ZSSY\Common\ObjAndDic.cs:行号 21】
+Source：【RuRo.Common】
+HResult：【-2147467261】
+
+________________________________________________________

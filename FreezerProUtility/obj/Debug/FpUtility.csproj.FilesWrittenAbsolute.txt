@@ -1,0 +1,6 @@
+/home/al/Work/Repository/ZSSY/FreezerProUtility/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/al/Work/Repository/ZSSY/FreezerProUtility/bin/Debug/FpUtility.dll.mdb
+/home/al/Work/Repository/ZSSY/FreezerProUtility/bin/Debug/FpUtility.dll
+/home/al/Work/Repository/ZSSY/FreezerProUtility/obj/Debug/FpUtility.dll
+/home/al/Work/Repository/ZSSY/FreezerProUtility/obj/Debug/FpUtility.dll.mdb
+/home/al/Work/Repository/ZSSY/FreezerProUtility/bin/Debug/Newtonsoft.Json.dll

@@ -1,0 +1,12 @@
+H:\Repository\ZSSY\FreezerProUtility\bin\Release\FpUtility.dll
+H:\Repository\ZSSY\FreezerProUtility\bin\Release\FpUtility.pdb
+H:\Repository\ZSSY\FreezerProUtility\bin\Release\Newtonsoft.Json.dll
+H:\Repository\ZSSY\FreezerProUtility\obj\Release\FpUtility.csprojResolveAssemblyReference.cache
+H:\Repository\ZSSY\FreezerProUtility\obj\Release\FpUtility.dll
+H:\Repository\ZSSY\FreezerProUtility\obj\Release\FpUtility.pdb
+D:\Repository\ZSSY\FreezerProUtility\bin\Release\FpUtility.dll
+D:\Repository\ZSSY\FreezerProUtility\bin\Release\FpUtility.pdb
+D:\Repository\ZSSY\FreezerProUtility\bin\Release\Newtonsoft.Json.dll
+D:\Repository\ZSSY\FreezerProUtility\obj\Release\FpUtility.csprojResolveAssemblyReference.cache
+D:\Repository\ZSSY\FreezerProUtility\obj\Release\FpUtility.dll
+D:\Repository\ZSSY\FreezerProUtility\obj\Release\FpUtility.pdb

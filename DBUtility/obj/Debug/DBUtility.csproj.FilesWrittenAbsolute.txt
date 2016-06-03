@@ -1,0 +1,7 @@
+/home/al/Work/Repository/ZSSY/DBUtility/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/al/Work/Repository/ZSSY/DBUtility/obj/Debug/Maticsoft.DBUtility.dll
+/home/al/Work/Repository/ZSSY/DBUtility/bin/Debug/IBatisNet.Common.dll
+/home/al/Work/Repository/ZSSY/DBUtility/bin/Debug/IBatisNet.DataMapper.dll
+/home/al/Work/Repository/ZSSY/DBUtility/bin/Debug/Microsoft.QualityTools.Testing.Fakes.dll
+/home/al/Work/Repository/ZSSY/DBUtility/bin/Debug/MySql.Data.dll
+/home/al/Work/Repository/ZSSY/DBUtility/bin/Debug/Maticsoft.DBUtility.dll

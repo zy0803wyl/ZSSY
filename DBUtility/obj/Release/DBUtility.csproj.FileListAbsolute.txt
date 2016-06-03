@@ -1,0 +1,15 @@
+H:\Repository\ZSSY\DBUtility\bin\Release\Maticsoft.DBUtility.dll
+H:\Repository\ZSSY\DBUtility\bin\Release\IBatisNet.Common.dll
+H:\Repository\ZSSY\DBUtility\bin\Release\IBatisNet.DataMapper.dll
+H:\Repository\ZSSY\DBUtility\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+H:\Repository\ZSSY\DBUtility\bin\Release\MySql.Data.dll
+H:\Repository\ZSSY\DBUtility\bin\Release\System.Data.SQLite.DLL
+H:\Repository\ZSSY\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+H:\Repository\ZSSY\DBUtility\obj\Release\Maticsoft.DBUtility.dll
+D:\Repository\ZSSY\DBUtility\bin\Release\Maticsoft.DBUtility.dll
+D:\Repository\ZSSY\DBUtility\bin\Release\IBatisNet.Common.dll
+D:\Repository\ZSSY\DBUtility\bin\Release\IBatisNet.DataMapper.dll
+D:\Repository\ZSSY\DBUtility\bin\Release\MySql.Data.dll
+D:\Repository\ZSSY\DBUtility\bin\Release\System.Data.SQLite.DLL
+D:\Repository\ZSSY\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+D:\Repository\ZSSY\DBUtility\obj\Release\Maticsoft.DBUtility.dll

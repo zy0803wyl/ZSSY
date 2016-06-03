@@ -1,0 +1,26 @@
+
+Log Entry : 
+10/22/2015 22:07:55
+Message：【要解密的数据的长度无效。】
+StackTrace：【   在 System.Security.Cryptography.CryptoAPITransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 RuRo.Common.DEncrypt.DEncrypt.Decrypt(Byte[] encrypted, Byte[] key) 位置 h:\Repository\ZSSY\Common\DEncrypt\DEncrypt.cs:行号 145
+   在 RuRo.Common.DEncrypt.DEncrypt.Decrypt(String encrypted, String key, Encoding encoding) 位置 h:\Repository\ZSSY\Common\DEncrypt\DEncrypt.cs:行号 73
+   在 RuRo.Common.DEncrypt.DEncrypt.Decrypt(String original) 位置 h:\Repository\ZSSY\Common\DEncrypt\DEncrypt.cs:行号 32
+   在 RuRo.BLL.UnameAndPwd.GetUp() 位置 h:\Repository\ZSSY\BLL\UnameAndPwd.cs:行号 21】
+Source：【mscorlib】
+HResult：【-2146233296】
+
+________________________________________________________
+
+Log Entry : 
+10/22/2015 22:09:28
+Message：【要解密的数据的长度无效。】
+StackTrace：【   在 System.Security.Cryptography.CryptoAPITransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   在 RuRo.Common.DEncrypt.DEncrypt.Decrypt(Byte[] encrypted, Byte[] key) 位置 h:\Repository\ZSSY\Common\DEncrypt\DEncrypt.cs:行号 145
+   在 RuRo.Common.DEncrypt.DEncrypt.Decrypt(String encrypted, String key, Encoding encoding) 位置 h:\Repository\ZSSY\Common\DEncrypt\DEncrypt.cs:行号 73
+   在 RuRo.Common.DEncrypt.DEncrypt.Decrypt(String original) 位置 h:\Repository\ZSSY\Common\DEncrypt\DEncrypt.cs:行号 32
+   在 RuRo.BLL.UnameAndPwd.GetUp() 位置 h:\Repository\ZSSY\BLL\UnameAndPwd.cs:行号 21】
+Source：【mscorlib】
+HResult：【-2146233296】
+
+________________________________________________________
