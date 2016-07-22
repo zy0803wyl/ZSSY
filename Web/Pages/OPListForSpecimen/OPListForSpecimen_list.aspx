@@ -16,7 +16,7 @@
 </head>
 <body>
     <!--datagrid栏-->
-    <table id="OPListForSpecimen" title="日期查询" class="easyui-datagrid" style="width: auto; height: 460px;text-align:center;align-content:center"
+    <table id="OPListForSpecimen" title="日期查询" class="easyui-datagrid" style="width: auto; height: 460px;text-align:center"
         url="OPListForSpecimen_handler.ashx?mode=qrydate" fit='false'
         pagination="true" idfield="PatientId" rownumbers="true"
         fitcolumns="true" singleselect="true" toolbar="#toolbar"
@@ -26,7 +26,7 @@
             <tr>
                 <th field="ck" checkbox="true"></th>
                 <th field="id" width="10"  hidden="true" >id</th>
-                <th field="PatientId" width="10%" sortable="true">标识号</th>
+                <th field="PatientId" width="10%" sortable="true">病人唯一标识号</th>
                 <th field="InpNO" width="10%" sortable="true">住院号</th>
                 <th field="VisitId" width="10%" sortable="true">就诊号</th>
                 <th field="Name" width="10%" sortable="true">姓名</th>
@@ -48,8 +48,8 @@
                 <th field="NextOfKinAddr" width="100" hidden="true">联系人地址</th>
                 <th field="NextOfKinZipCode" width="100" hidden="true">联系人邮政编码</th>
                 <th field="NextOfKinPhome" width="100" hidden="true">联系人电话号码</th>
-                <th field="DeptCode" width="10%" sortable="true"  hidden="true">科室代码@名称</th>
-                <th field="DeptCodeName" width="10%" sortable="true">科室名称</th>
+                <th field="DeptCode" width="15%" sortable="true" hidden="true">科室代码@名称</th>
+                <th field="DeptCodeName" width="15%" sortable="true" hidden="true">名称</th>
                 <th field="BedNO" width="100" hidden="true">病人所住床号</th>
                 <th field="AdmissionDateTime" width="100" hidden="true">入院日期及时间</th>
                 <th field="DoctorInCharge" width="100" hidden="true">主治医生工号@姓名</th>
@@ -59,7 +59,6 @@
                 <th field="KeepSpecimenSign" width="5%" sortable="true">是否留标本</th>
                 <th field="OperatingRoom" width="100" hidden="true">手术室代码@名称</th>
                 <th field="Surgeon" width="100" hidden="true">手术医师工号@姓名</th>
-                <th field="ResultContent" width="100" hidden="true">现病史</th>
                 <th field="InPatPreillness" width="100" hidden="true">现病史</th>
                 <th field="InPatPastillness" width="100" hidden="true">既往史</th>
                 <th field="InPatFamillness" width="100" hidden="true">家族史</th>
