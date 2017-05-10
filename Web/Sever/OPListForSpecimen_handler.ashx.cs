@@ -62,7 +62,7 @@ namespace RuRo
             {
                 BLL.ZSSY.OPListForSpecimen bll_OPListForSpecimen = new BLL.ZSSY.OPListForSpecimen();
                 Model.ZSSY.OPListForSpecimen model_OPListForSpecimen = new Model.ZSSY.OPListForSpecimen();
-                string  ssType = string.Empty,
+                string ssType = string.Empty,
                         ssName = string.Empty,
                         ssDecription = string.Empty;
                 #region 实体类赋值
@@ -179,16 +179,24 @@ namespace RuRo
                     model_OPListForSpecimen.ResultContent = context.Request["ResultContent"];
                 #endregion
                 //数据转换
+                //样品源类型
                 if (context.Request["ssType"] != null)
                     ssType = context.Request["ssType"];
+                //样品源名称
                 if (context.Request["pId"] != null)
                     ssName = context.Request["pId"];
-                if (context.Request["ssType"] != null)
+                if (context.Request["Name"] != null)
+                    ssName = ssName + "-" + context.Request["Name"];
+                if (context.Request["IDNO"] != null)
+                    ssName = ssName + "-" + context.Request["IDNO"].Substring(context.Request["IDNO"].Length-6,6);
+                //样品源描述
+                if (context.Request["ssType"] != null) 
                     ssDecription = context.Request["ssType"] + "病区";
+
                 //数据匹配
-               BLL.ImpSampleSource imp = new BLL.ImpSampleSource();
-               string result = imp.Import(model_OPListForSpecimen, ssType, ssName, ssDecription);
-               context.Response.Write(result);
+                BLL.ImpSampleSource imp = new BLL.ImpSampleSource();
+                string result = imp.Import(model_OPListForSpecimen, ssType, ssName, ssDecription);
+                context.Response.Write(result);
                 //数据提交
                 //结果返回
             }
@@ -295,7 +303,7 @@ namespace RuRo
             string enddate = context.Request["jsdate"];
             GetDataFromHospital hospitalDataByDate = new GetDataFromHospital();
             string jsonStrResult = hospitalDataByDate.GetDataByDateTime(begindate, enddate);
-           //string jsonStrResult = hospitalDataByDate.GetOPListForSpecimenByLocalDateFileToJsonStr();//测试数据
+            //string jsonStrResult = hospitalDataByDate.GetOPListForSpecimenByLocalDateFileToJsonStr();//测试数据
             //#region 多行数据
             //#endregion
             if (jsonStrResult == "")
