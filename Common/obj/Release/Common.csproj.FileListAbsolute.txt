@@ -12,3 +12,10 @@ D:\Repository\ZSSY\Common\bin\Release\Newtonsoft.Json.dll
 D:\Repository\ZSSY\Common\obj\Release\Common.csprojFakesResolveAssemblyReference.cache
 D:\Repository\ZSSY\Common\obj\Release\RuRo.Common.dll
 D:\Repository\ZSSY\Common\obj\Release\RuRo.Common.pdb
+C:\Users\al\Desktop\ZSSY\Common\bin\Release\RuRo.Common.dll
+C:\Users\al\Desktop\ZSSY\Common\bin\Release\RuRo.Common.pdb
+C:\Users\al\Desktop\ZSSY\Common\bin\Release\Newtonsoft.Json.6.0.0.0.Fakes.fakesconfig
+C:\Users\al\Desktop\ZSSY\Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\al\Desktop\ZSSY\Common\obj\Release\Common.csprojFakesResolveAssemblyReference.cache
+C:\Users\al\Desktop\ZSSY\Common\obj\Release\RuRo.Common.dll
+C:\Users\al\Desktop\ZSSY\Common\obj\Release\RuRo.Common.pdb

@@ -13,3 +13,10 @@ D:\Repository\ZSSY\DBUtility\bin\Release\MySql.Data.dll
 D:\Repository\ZSSY\DBUtility\bin\Release\System.Data.SQLite.DLL
 D:\Repository\ZSSY\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
 D:\Repository\ZSSY\DBUtility\obj\Release\Maticsoft.DBUtility.dll
+C:\Users\al\Desktop\ZSSY\DBUtility\bin\Release\Maticsoft.DBUtility.dll
+C:\Users\al\Desktop\ZSSY\DBUtility\bin\Release\IBatisNet.Common.dll
+C:\Users\al\Desktop\ZSSY\DBUtility\bin\Release\IBatisNet.DataMapper.dll
+C:\Users\al\Desktop\ZSSY\DBUtility\bin\Release\MySql.Data.dll
+C:\Users\al\Desktop\ZSSY\DBUtility\bin\Release\System.Data.SQLite.DLL
+C:\Users\al\Desktop\ZSSY\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\al\Desktop\ZSSY\DBUtility\obj\Release\Maticsoft.DBUtility.dll

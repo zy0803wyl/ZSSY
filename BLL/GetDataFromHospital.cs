@@ -531,6 +531,10 @@ namespace BLL
                     {
                         model.KeepSpecimenSign = "";
                     }
+                    if (!String.IsNullOrEmpty(model.DeptCode))
+                    {
+                        model.DeptCodeName = model.DeptCode.Split('@')[0];
+                    }
                     list.Add(model);
                 }
                 list = list.OrderByDescending(a => a.KeepSpecimenSign).ToList();

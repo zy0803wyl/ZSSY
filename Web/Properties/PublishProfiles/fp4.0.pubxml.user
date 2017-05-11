@@ -6,7 +6,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>F:\01.anjie\03.客户文档\中山大学附属第三医院\中心实验室\数据对接\发布文件\2015年12月11日</_PublishTargetUrl>
+    <_PublishTargetUrl>d:\01.anjie\03.客户文档\中山大学附属第三医院\中心实验室\数据对接\发布文件\2017年05月10日</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/BLL.dll">
@@ -25,7 +25,7 @@
       <publishTime>08/17/2015 17:52:28</publishTime>
     </File>
     <File Include="bin/FpUtility.dll">
-      <publishTime>12/11/2015 17:57:00</publishTime>
+      <publishTime>05/10/2017 10:00:29</publishTime>
     </File>
     <File Include="bin/FreezerProPlugin.dll">
       <publishTime>03/27/2015 18:15:14</publishTime>
@@ -43,7 +43,7 @@
       <publishTime>08/19/2015 15:17:56</publishTime>
     </File>
     <File Include="bin/Maticsoft.DBUtility.dll">
-      <publishTime>12/11/2015 17:57:00</publishTime>
+      <publishTime>05/10/2017 10:00:31</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>10/26/2015 14:05:43</publishTime>
@@ -58,22 +58,22 @@
       <publishTime>01/11/2015 19:53:40</publishTime>
     </File>
     <File Include="bin/RuRo.BLL.dll">
-      <publishTime>12/11/2015 18:19:22</publishTime>
+      <publishTime>05/10/2017 17:00:06</publishTime>
     </File>
     <File Include="bin/RuRo.BLL.XmlSerializers.dll">
-      <publishTime>12/11/2015 18:19:22</publishTime>
+      <publishTime>05/10/2017 17:00:07</publishTime>
     </File>
     <File Include="bin/RuRo.Common.dll">
-      <publishTime>12/11/2015 17:57:00</publishTime>
+      <publishTime>05/10/2017 10:00:29</publishTime>
     </File>
     <File Include="bin/RuRo.DAL.dll">
-      <publishTime>12/11/2015 18:19:21</publishTime>
+      <publishTime>05/10/2017 17:00:06</publishTime>
     </File>
     <File Include="bin/RuRo.Model.dll">
-      <publishTime>12/11/2015 17:57:01</publishTime>
+      <publishTime>05/10/2017 17:00:03</publishTime>
     </File>
     <File Include="bin/RuRo.Web.dll">
-      <publishTime>12/11/2015 18:19:23</publishTime>
+      <publishTime>05/10/2017 17:00:08</publishTime>
     </File>
     <File Include="bin/System.Data.SQLite.dll">
       <publishTime>05/23/2013 16:29:22</publishTime>
@@ -109,7 +109,7 @@
       <publishTime>10/22/2015 15:40:25</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>12/11/2015 18:06:05</publishTime>
+      <publishTime>07/22/2016 10:27:00</publishTime>
     </File>
     <File Include="Error/AppError/150823.txt">
       <publishTime>10/22/2015 11:40:17</publishTime>
@@ -3007,16 +3007,16 @@
       <publishTime>12/10/2015 10:57:29</publishTime>
     </File>
     <File Include="Pages/OPListForSpecimen/OPListForSpecimen_info.aspx">
-      <publishTime>12/10/2015 12:03:13</publishTime>
+      <publishTime>05/10/2017 10:43:45</publishTime>
     </File>
     <File Include="Pages/OPListForSpecimen/OPListForSpecimen_list.aspx">
-      <publishTime>12/10/2015 12:03:13</publishTime>
+      <publishTime>05/10/2017 16:58:44</publishTime>
     </File>
     <File Include="Pages/ResHis.aspx">
       <publishTime>10/27/2015 00:14:04</publishTime>
     </File>
     <File Include="Pages/Search.aspx">
-      <publishTime>12/10/2015 16:14:23</publishTime>
+      <publishTime>07/22/2016 10:27:00</publishTime>
     </File>
     <File Include="Pages/SpecimenRt/SpecimenRtLog_list.aspx">
       <publishTime>12/09/2015 21:37:19</publishTime>
@@ -3064,7 +3064,7 @@
       <publishTime>10/22/2015 15:30:25</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/11/2015 17:57:07</publishTime>
+      <publishTime>05/10/2017 17:00:09</publishTime>
     </File>
     <File Include="ZSSY/ImportSampleSourceLog/Add.aspx">
       <publishTime>10/22/2015 10:54:50</publishTime>

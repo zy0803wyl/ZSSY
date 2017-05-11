@@ -20,3 +20,14 @@ D:\Repository\ZSSY\Model\bin\Release\zh-Hans\EntityFramework.resources.dll
 D:\Repository\ZSSY\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
 D:\Repository\ZSSY\Model\obj\Release\RuRo.Model.dll
 D:\Repository\ZSSY\Model\obj\Release\RuRo.Model.pdb
+C:\Users\al\Desktop\ZSSY\Model\bin\Release\RuRo.Model.dll
+C:\Users\al\Desktop\ZSSY\Model\bin\Release\RuRo.Model.pdb
+C:\Users\al\Desktop\ZSSY\Model\bin\Release\EntityFramework.dll
+C:\Users\al\Desktop\ZSSY\Model\bin\Release\RuRo.Common.dll
+C:\Users\al\Desktop\ZSSY\Model\bin\Release\Newtonsoft.Json.dll
+C:\Users\al\Desktop\ZSSY\Model\bin\Release\RuRo.Common.pdb
+C:\Users\al\Desktop\ZSSY\Model\bin\Release\EntityFramework.xml
+C:\Users\al\Desktop\ZSSY\Model\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\al\Desktop\ZSSY\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\al\Desktop\ZSSY\Model\obj\Release\RuRo.Model.dll
+C:\Users\al\Desktop\ZSSY\Model\obj\Release\RuRo.Model.pdb

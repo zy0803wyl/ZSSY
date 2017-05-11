@@ -353,7 +353,22 @@ namespace RuRo.Model.ZSSY
 			get{return _labinfo;}
 		}
 		#endregion Model
-
+        /// <summary>
+        /// 医嘱名称
+        /// </summary>
+        public string OrdDesc { get; set; }
+        /// <summary>
+        /// 医嘱日期
+        /// </summary>
+        public string OrdSt { get; set; }
+        /// <summary>
+        /// 备注
+        /// </summary>
+        public string Beizhu { get; set; }
+        /// <summary>
+        /// 科室名称
+        /// </summary>
+        public string DeptCodeName { get; set; }
         /// <summary>
         /// 病例诊断
         /// </summary>

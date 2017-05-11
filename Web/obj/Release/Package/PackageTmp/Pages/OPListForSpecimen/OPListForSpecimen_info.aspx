@@ -390,7 +390,6 @@
                         } catch (e) {
                             $.messager.alert('提示', '导入信息出错，请手动添加', 'error');
                         }
-                        
                     }
                     else { $.messager.alert('提示', '查询不到样品源', 'error'); }
                 }
