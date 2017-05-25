@@ -38,7 +38,6 @@ namespace RuRo.Web.ZSSY.LabTestMaster
             string idlist = GetSelIDlist();
             if (idlist.Trim().Length == 0) 
                 return;
-            #warning 代码生成警告：多主键情况无法生成批量删除，请手工修改代码. //bll.DeleteList(idlist);
             BindData();
         }
         

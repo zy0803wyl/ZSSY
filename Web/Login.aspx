@@ -129,7 +129,7 @@
                                 <td>
                                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td height="80" align="center">广东省中山三院</td>
+                                            <td height="80" align="center">中山三院</td>
                                         </tr>
                                     </table>
                                 </td>

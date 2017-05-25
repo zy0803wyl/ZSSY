@@ -223,7 +223,13 @@
                     <div class="fitem">
                         <div class="label">乙肝梅毒等阳性结果:</div>
                         <div class="control">
-                            <textarea id="LabInfo" name="LabInfo"></textarea>
+                            <input id="LabInfo" name="LabInfo"></input>
+                        </div>
+                    </div>
+                    <div class="fitem">
+                        <div class="label">手术名称:</div>
+                        <div class="control">
+                            <textarea id="OperatingName" name="OperatingName"></textarea>
                         </div>
                     </div>
                     <div class="fitem">
@@ -266,6 +272,12 @@
                         <div class="label">永久通信地址:</div>
                         <div class="control">
                             <textarea id="MailingAddress" name="MailingAddress"></textarea>
+                        </div>
+                    </div> 
+                    <div class="fitem">
+                        <div class="label">备注:</div>
+                        <div class="control">
+                            <textarea id="Beizhu" name="Beizhu"></textarea>
                         </div>
                     </div>
                    

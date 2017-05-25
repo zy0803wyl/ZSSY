@@ -20,7 +20,6 @@ namespace RuRo.Web.ZSSY.LabTestMaster
 		{
 			if (!Page.IsPostBack)
 			{
-				#warning 代码生成提示：显示页面,请检查确认该语句是否正确
 				ShowInfo();
 			}
 		}

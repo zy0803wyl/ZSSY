@@ -28,7 +28,7 @@ form {
     text-align:center;
 }
 .fitem div{
-    display:inline;
+    display:inline,block;
     float:left;
 }
 
@@ -47,7 +47,9 @@ form {
 .fitem textarea {
     display:block;
     float:none;
-    width:558px;
+    width:560px;
+    text-align:left;
+    /*height:auto;*/
 }
 
 .fsubmit {

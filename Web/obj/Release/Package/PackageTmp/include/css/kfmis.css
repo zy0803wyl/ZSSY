@@ -47,7 +47,8 @@ form {
 .fitem textarea {
     display:block;
     float:none;
-    width:558px;
+    width:auto;
+    height:auto;
 }
 
 .fsubmit {

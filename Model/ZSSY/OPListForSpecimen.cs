@@ -353,6 +353,11 @@ namespace RuRo.Model.ZSSY
 			get{return _labinfo;}
 		}
 		#endregion Model
+
+        /// <summary>
+        /// 病例诊断
+        /// </summary>
+        public string ResultContent { get; set; }
         /// <summary>
         /// 医嘱名称
         /// </summary>
@@ -370,9 +375,9 @@ namespace RuRo.Model.ZSSY
         /// </summary>
         public string DeptCodeName { get; set; }
         /// <summary>
-        /// 病例诊断
+        /// 手术名称
         /// </summary>
-        public string ResultContent { get; set; }
+        public string OperatingName { get; set; }
 	}
 }
 
